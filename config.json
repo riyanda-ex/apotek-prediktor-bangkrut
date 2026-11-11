@@ -1,0 +1,16 @@
+{
+  "bobot": {
+    "arus_kas": 0.30,
+    "stok_mati": 0.25,
+    "hutang": 0.20,
+    "penjualan": 0.15,
+    "operasional": 0.10
+  },
+  "threshold": {
+    "kritis": 75,
+    "waspada": 50,
+    "sehat": 0
+  },
+  "versi": "3.0-international",
+  "standar": "ISO 31000 Risk Management + Explainable AI"
+}

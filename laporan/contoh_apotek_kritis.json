@@ -1,0 +1,33 @@
+{
+  "apotek": "Apotek Harapan (CONTOH)",
+  "kota": "Surabaya",
+  "tanggal_analisa": "11 November 2026 09:00",
+  "skor_risiko": 97.3,
+  "level": "KRITIS 🔴",
+  "prediksi": "Risiko TINGGI bangkrut dalam < 3 bulan jika tidak ada tindakan",
+  "detail_skor": {
+    "arus_kas": 100,
+    "stok_mati": 95,
+    "hutang": 100,
+    "penjualan": 90,
+    "operasional": 100
+  },
+  "alasan": [
+    "CRITICAL: Kas hanya cukup 0.4 bulan. Apotek bisa tutup bulan depan.",
+    "RUGI bulanan Rp 4,000,000. Keluar lebih besar dari masuk.",
+    "45.0% stok adalah stok mati / expired. Uang terjebak di gudang.",
+    "Hutang 9.0x lipat dari kas. Distributor bisa stop kirim obat.",
+    "CRITICAL: Hutang jatuh tempo 30 hari Rp 20,000,000 > kas Rp 5,000,000. Gagal bayar!",
+    "Penjualan TURUN 46.7% dalam 3 bulan. Pelanggan kabur.",
+    "Biaya 150.0% dari pemasukan. Hampir tidak ada untung.",
+    "Belum ada sistem stok digital - rawan stok mati tidak ketahuan."
+  ],
+  "rekomendasi": [
+    "1. SEGERA negosiasi hutang ke distributor - minta perpanjangan tempo 60 hari",
+    "2. Obral stok hampir expired (diskon 30-50%) - ubah stok jadi kas",
+    "3. Potong biaya tidak penting - jam buka, listrik, langganan",
+    "4. Hubungi akuntan / konsultan UMKM terdekat HARI INI",
+    "5. JANGAN ambil hutang baru untuk bayar hutang lama"
+  ],
+  "disclaimer": "CONTOH DATA DUMMY - bukan apotek asli. Alat bantu edukasi, bukan nasihat keuangan. Verifikasi dengan akuntan."
+}

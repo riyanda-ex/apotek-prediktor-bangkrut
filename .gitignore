@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.env
+
+# Laporan ASLI jangan di-upload (privasi apotek)
+# Hanya contoh laporan yang boleh di-upload
+laporan/*
+!laporan/contoh_*.json
+!laporan/.gitkeep
+
+# Jangan upload file json lain, kecuali config
+*.json
+!config.json
